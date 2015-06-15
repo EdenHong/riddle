@@ -1,0 +1,14 @@
+#SideBar{
+	width : 200px;
+	position : absolute;
+	background-color: blue;
+}
+
+#GNB{
+	background-color: green;
+}
+
+#MainArea{
+	background-color: yellow;
+	margin-left : 250px;
+}
