@@ -12,3 +12,13 @@
 	background-color: yellow;
 	margin-left : 250px;
 }
+
+.gnb{
+	margin-left: 50px;
+	width: 40px;
+	margin-top: 10px;
+	height: 40px;
+	position: center;
+	background-color: #00ff00;
+	border-width: 0px;
+}
