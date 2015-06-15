@@ -11,6 +11,7 @@
 #MainArea{
 	background-color: yellow;
 	margin-left : 250px;
+	height: auto;
 }
 
 .gnb{
@@ -21,4 +22,7 @@
 	position: center;
 	background-color: #00ff00;
 	border-width: 0px;
+}
+
+#footer{
 }
