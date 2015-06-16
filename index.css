@@ -1,27 +1,56 @@
+
+#back{
+	margin : 10px;
+	background-color: #cccccc;
+}
 #SideBar{
-	width : 200px;
-	position : absolute;
+	width : 10%;
+	float : left;
 	background-color: blue;
 }
 
 #GNB{
 	background-color: green;
+	width: 100%;
+	margin: 10px 0;
 }
 
 #MainArea{
 	background-color: yellow;
-	margin-left : 250px;
+	margin-left : 11%;
 	height: auto;
+	width: 89%;
 }
 
-.gnb{
-	margin-left: 50px;
-	width: 40px;
-	margin-top: 10px;
+.menu{
+	margin: 1% 2%;
+	width: 15%;
 	height: 40px;
 	background-color: #00ff00;
 	border-width: 0px;
 }
 
+.menu:hover{
+	background-color: #77ff00;
+}
+
+.sidemenu{
+	margin: 5% 10%;
+	width: 80%;
+	background-color: #0077ff;
+	border-width: 0px;
+}
+
+.sidemenu:hover{
+	background-color: #00ffff;
+}
+
+header{
+	background-color: #dddddd;
+}
+
 #footer{
+	width: 100%;
+	background-color: #dddddd;
+	clear: both;
 }
