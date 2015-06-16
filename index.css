@@ -18,8 +18,8 @@
 #MainArea{
 	background-color: yellow;
 	margin-left : 11%;
-	height: auto;
 	width: 89%;
+	margin-top: -10px;
 }
 
 .menu{
@@ -37,6 +37,7 @@
 .sidemenu{
 	margin: 5% 10%;
 	width: 80%;
+	height: 30px;
 	background-color: #0077ff;
 	border-width: 0px;
 }
